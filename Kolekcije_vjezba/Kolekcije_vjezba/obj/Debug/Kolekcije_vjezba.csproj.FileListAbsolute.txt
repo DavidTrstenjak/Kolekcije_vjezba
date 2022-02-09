@@ -1,0 +1,11 @@
+C:\Users\PC\source\repos\Kolekcije_vjezba\Kolekcije_vjezba\bin\Debug\Kolekcije_vjezba.exe.config
+C:\Users\PC\source\repos\Kolekcije_vjezba\Kolekcije_vjezba\bin\Debug\Kolekcije_vjezba.exe
+C:\Users\PC\source\repos\Kolekcije_vjezba\Kolekcije_vjezba\bin\Debug\Kolekcije_vjezba.pdb
+C:\Users\PC\source\repos\Kolekcije_vjezba\Kolekcije_vjezba\obj\Debug\Kolekcije_vjezba.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Kolekcije_vjezba\Kolekcije_vjezba\obj\Debug\Kolekcije_vjezba.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\source\repos\Kolekcije_vjezba\Kolekcije_vjezba\obj\Debug\Kolekcije_vjezba.Form1.resources
+C:\Users\PC\source\repos\Kolekcije_vjezba\Kolekcije_vjezba\obj\Debug\Kolekcije_vjezba.Properties.Resources.resources
+C:\Users\PC\source\repos\Kolekcije_vjezba\Kolekcije_vjezba\obj\Debug\Kolekcije_vjezba.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\Kolekcije_vjezba\Kolekcije_vjezba\obj\Debug\Kolekcije_vjezba.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Kolekcije_vjezba\Kolekcije_vjezba\obj\Debug\Kolekcije_vjezba.exe
+C:\Users\PC\source\repos\Kolekcije_vjezba\Kolekcije_vjezba\obj\Debug\Kolekcije_vjezba.pdb
